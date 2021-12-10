@@ -1,0 +1,8 @@
+dash
+flask
+tensorflow
+numpy
+pybase64
+opencv-python
+Pillow
+dash_bootstrap_components
