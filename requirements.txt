@@ -3,6 +3,6 @@ flask
 tensorflow
 numpy
 pybase64
-opencv-python
+opencv-python-headless
 Pillow
 dash_bootstrap_components
