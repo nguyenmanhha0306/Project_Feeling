@@ -1,5 +1,5 @@
 from flask import  Response
-import cv2
+from cv2 import cv2
 import numpy as np
 from tensorflow.keras.preprocessing.image import img_to_array
 import io
