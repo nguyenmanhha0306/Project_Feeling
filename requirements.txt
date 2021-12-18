@@ -1,11 +1,10 @@
 dash
+opencv-python-headless==4.5.3.56
 flask
 tensorflow
 numpy
 pybase64
-opencv-python-headless==4.5.3.56
 opencv-python==4.5.3.56
-openpyxl==3.0.9
 Pillow
 dash_bootstrap_components
 scikit-image
